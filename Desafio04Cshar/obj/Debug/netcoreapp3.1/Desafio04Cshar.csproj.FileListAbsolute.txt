@@ -1,0 +1,11 @@
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.exe
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.deps.json
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.runtimeconfig.json
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.runtimeconfig.dev.json
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.dll
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\bin\Debug\netcoreapp3.1\Desafio04Cshar.pdb
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\obj\Debug\netcoreapp3.1\Desafio04Cshar.csprojAssemblyReference.cache
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\obj\Debug\netcoreapp3.1\Desafio04Cshar.AssemblyInfoInputs.cache
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\obj\Debug\netcoreapp3.1\Desafio04Cshar.AssemblyInfo.cs
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\obj\Debug\netcoreapp3.1\Desafio04Cshar.dll
+C:\Users\GIJF\source\repos\Desafio04Cshar\Desafio04Cshar\obj\Debug\netcoreapp3.1\Desafio04Cshar.pdb
